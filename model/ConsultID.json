@@ -1,0 +1,265 @@
+{ 
+  "id":1,
+  "protocol":"MOVI202109000001",
+  "type":2,
+  "subject":"Assunto",
+  "category":"Categoria",
+  "urgency":"Urgência",
+  "status":"Status",
+  "baseStatus":"Status base",
+  "justification":"Justificativa",
+  "origin":9,
+  "createdDate":"2016-11-18T14:25:07.1920886",
+  "originEmailAccount":"email@origem.com",
+  "owner":{ 
+    "id":"CodRefDoResponsável",
+    "personType":1,
+    "profileType":1,
+    "businessName":"Nome do responsável",
+    "email":"email@responsavel.com",
+    "phone":"(47) 99999-9999"
+  },
+  "ownerTeam":"Equipe (do) responsável",
+  "createdBy":{ 
+    "id":"CodRefDoGeradorDoTicket",
+    "personType":1,
+    "profileType":2,
+    "businessName":"Nome do gerador do ticket",
+    "email":"email@gerador.com",
+    "phone":"(47) 99999-9999"
+  },
+  "serviceFull":[ 
+    "Serviço nível 1",
+    "Serviço nível 2",
+    "Serviço nível 3"
+  ],
+  "serviceFirstLevelId":1,
+  "serviceFirstLevel":"Serviço nível 1",
+  "serviceSecondLevel":"Serviço nível 2",
+  "serviceThirdLevel":"Serviço nível 3",
+  "contactForm":"Formulário de contato",
+  "tags":[ 
+    "Tag1",
+    "Tag2",
+    "Tag3"
+  ],
+  "cc":"email@cc.com.br,email2@cc.com.br",
+  "resolvedIn":"2016-11-19T14:25:07.1920886",
+  "reopenedIn":"2016-11-20T14:25:07.1920886",
+  "closedIn":"2016-11-21T14:25:07.1920886",
+  "lastActionDate":"2016-11-21T14:25:07.1920886",
+  "actionCount":1,
+  "lastUpdate":"2016-11-21T14:25:07.1920886",
+  "lifeTimeWorkingTime":9999,
+  "stoppedTime":9,
+  "stoppedTimeWorkingTime":9,
+  "resolvedInFirstCall":false,
+  "chatWidget":"Chat - Exemplo",
+  "chatGroup":"Grupo do Chat",
+  "chatTalkTime":999,
+  "chatWaitingTime":9,
+  "sequence":2,
+  "slaAgreement":"SLA Utilizado",
+  "slaAgreementRule":"SLA Regra Utilizado",
+  "slaSolutionTime":999,
+  "slaResponseTime":99,
+  "slaSolutionChangedByUser":false,
+  "slaSolutionChangedBy":{ 
+    "id":"CodRef",
+    "personType":1,
+    "profileType":3,
+    "businessName":"Nome da pessoa que realizou a alteração",
+    "email":"email@email.com",
+    "phone":"(47) 99999-9999"
+  },
+  "slaSolutionDate":"2016-11-21T14:25:07.1920886",
+  "slaSolutionDateIsPaused":false,
+  "slaResponseDate":"2016-11-21T14:25:07.1920886",
+  "slaRealResponseDate":"2016-11-21T14:25:07.1920886",
+  "clients":[ 
+    { 
+      "id":"CodRefDoCliente",
+      "personType":2,
+      "profileType":2,
+      "businessName":"Nome do cliente",
+      "email":"email@client.com",
+      "phone":"(47) 99999-9999",
+      "isDeleted":false,
+      "organization":{ 
+        "id":"CodRefDaOrganização",
+        "personType":1,
+        "profileType":2,
+        "businessName":"Nome da organização",
+        "email":"email@organizacao.com",
+        "phone":"(47) 99999-9999"
+      }
+    }
+  ],
+  "actions":[ 
+    { 
+      "id":1,
+      "type":2,
+      "origin":9,
+      "description":"Descrição da ação",
+      "status":"Status",
+      "justification":"Justificativa",
+      "createdDate":"2016-11-21T14:25:07.1920886",
+      "createdBy":{ 
+        "id":"CodRefDoGeradorDaAção",
+        "personType":1,
+        "profileType":1,
+        "businessName":"Nome do gerador da ação",
+        "email":"email@gerador.com",
+        "phone":"(47) 99999-9999"
+      },
+      "isDeleted":false,
+      "timeAppointments":[ 
+        { 
+          "id":1,
+          "activity":"Atividade do apontamento",
+          "date":"2016-11-21T00:00:00",
+          "periodStart":"21:32:13.7345254",
+          "periodEnd":"21:39:08.3443985",
+          "workTime":"00:06:54.6098731",
+          "accountedTime":7.7666666666666666,
+          "workTypeName":"Hora Extra",
+          "createdBy":{ 
+            "id":"CodRefDoGeradorDoApontamento",
+            "personType":1,
+            "profileType":1,
+            "businessName":"Nome do gerador do apontamento",
+            "email":"email@gerador.com",
+            "phone":"(47) 99999-9999"
+          },
+          "createdByTeam":{ 
+            "id":101,
+            "name":"Qualidade"
+          }
+        }
+      ],
+      "expenses":[ 
+        { 
+          "id":12,
+          "type":"Transporte",
+          "serviceReport":"0",
+          "createdBy":{ 
+            "id":"9B7387E9-4C46-4BD0",
+            "personType":1,
+            "profileType":3,
+            "businessName":"Administrador",
+            "email":null,
+            "phone":null,
+            "address":null,
+            "complement":null,
+            "cep":null,
+            "city":null,
+            "bairro":null,
+            "number":null,
+            "reference":null
+          },
+          "createdByTeam":null,
+          "date":"2018-11-05T18:22:00",
+          "quantity":null,
+          "value":145.11
+        },
+        { 
+          "id":13,
+          "type":"Alimentação",
+          "serviceReport":"0",
+          "createdBy":{ 
+            "id":"9B7387E9-4C46-4BD0",
+            "personType":1,
+            "profileType":3,
+            "businessName":"Administrador",
+            "email":null,
+            "phone":null,
+            "address":null,
+            "complement":null,
+            "cep":null,
+            "city":null,
+            "bairro":null,
+            "number":null,
+            "reference":null
+          },
+          "createdByTeam":null,
+          "date":"2018-11-05T18:22:00",
+          "quantity":null,
+          "value":25.33
+        }
+      ],
+      "attachments":[ 
+        { 
+          "fileName":"minhaImagem.png",
+          "path":"7BDEA1B62A8641FF86982D0CF9F3DEC0",
+          "createdBy":{ 
+            "id":"CodRefDeQuemEnviouOArquivo",
+            "personType":1,
+            "profileType":1,
+            "businessName":"Nome de quem enviou o arquivo",
+            "email":"email@pessoa.com",
+            "phone":"(47) 99999-9999"
+          },
+          "createdDate":"2017-05-29T14:19:50.0129141"
+        }
+      ],
+      "parentTickets":[ 
+        { 
+          "id":2,
+          "subject":"Assunto do ticket pai",
+          "isDeleted":false
+        }
+      ],
+      "childrenTickets":[ 
+        { 
+          "id":3,
+          "subject":"Assunto do ticket filho",
+          "isDeleted":false
+        }
+      ],
+      "satisfactionSurveyResponses":[ 
+        { 
+          "id":1,
+          "responsedBy":{ 
+            "id":"CodRefDeQuemRespondeuAPesquisa",
+            "personType":1,
+            "profileType":2,
+            "businessName":"Nome de quem respondeu a pesquisa",
+            "email":"email@quemrespondeu.com",
+            "phone":"(47) 99999-9999"
+          },
+          "responseDate":"2016-11-22T14:25:07.1920886",
+          "satisfactionSurveyModel":2,
+          "satisfactionSurveyNetPromoterScoreResponse":null,
+          "satisfactionSurveyPositiveNegativeResponse":null,
+          "satisfactionSurveySmileyFacesResponse":5,
+          "comments":"Comentário na resposta da pesquisa"
+        }
+      ],
+      "customFieldValues":[ 
+        { 
+          "customFieldId":3,
+          "customFieldRuleId":2,
+          "line":1,
+          "value":null,
+          "items":[ 
+            { 
+              "personId":null,
+              "clientId":null,
+              "team":null,
+              "customFieldItem":"um"
+            }
+          ]
+        },
+        { 
+          "customFieldId":1,
+          "customFieldRuleId":1,
+          "line":1,
+          "value":"texto via api",
+          "items":[ 
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\bin\Debug\net7.0\exemplo.exe
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\bin\Debug\net7.0\exemplo.deps.json
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\bin\Debug\net7.0\exemplo.runtimeconfig.json
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\bin\Debug\net7.0\exemplo.dll
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\bin\Debug\net7.0\exemplo.pdb
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.AssemblyInfo.cs
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.csproj.Up2Date
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.dll
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\refint\exemplo.dll
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.pdb
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\exemplo.genruntimeconfig.cache
+C:\Users\User\Documents\github\Projeto_Movidesk\desk\obj\Debug\net7.0\ref\exemplo.dll
